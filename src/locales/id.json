@@ -1,0 +1,135 @@
+{
+  "landing": {
+    "nav": {
+      "howItWorks": "Cara Kerja",
+      "founder": "Pendiri",
+      "faq": "FAQ",
+      "signIn": "Masuk",
+      "join": "Gabung MITAN"
+    },
+    "hero": {
+      "eyebrow": "Dari Niat yang Sama. Menuju Pelaminan.",
+      "headlineLine1": "Temukan Pasangan Hidup.",
+      "headlineLine2": "Tanpa Basa-basi.",
+      "sub": "Tanpa Swipe. Tanpa Basa-basi. Platform perkenalan untuk Muslim yang serius menikah.",
+      "cta": "Gabung MITAN — Gratis",
+      "secondary": "Lihat cara kerjanya",
+      "note": "Gratis selama early access · Tanpa langganan · Hapus akun kapan saja"
+    },
+    "trust": {
+      "items": [
+        "Setiap profil identitasnya diverifikasi",
+        "Setiap anggota menulis esai reflektif",
+        "Tanpa budaya swipe. Tanpa ghosting."
+      ]
+    },
+    "stats": {
+      "eyebrow": "Dibangun berbeda",
+      "items": [
+        { "number": "24 jam", "label": "Rata-rata verifikasi identitas selesai" },
+        { "number": "100%", "label": "Anggota terverifikasi sebelum bisa terhubung" },
+        { "number": "5", "label": "Maks percakapan aktif — disengaja sejak dirancang" }
+      ]
+    },
+    "founder": {
+      "eyebrow": "Dari Pendiri",
+      "title": "Kenapa saya membangun ini.",
+      "paragraphs": [
+        "Saya pernah menikah. Lalu tidak lagi.",
+        "Setelah pernikahan saya berakhir, saya mencari pasangan lagi — kali ini dengan kejelasan tentang apa yang sebenarnya saya inginkan, dan apa yang tidak akan saya kompromikan.",
+        "Saya coba aplikasi-aplikasi yang ada. Swipe-nya terasa salah. Match-nya menghilang. Percakapannya tidak ke mana-mana.",
+        "Yang saya butuhkan bukan algoritma lain. Saya butuh tempat di mana orang datang dengan niat — di mana kalimat 'saya siap menikah' itu berarti sesuatu yang nyata.",
+        "MITAN adalah tempat itu. Belum sempurna. Tapi jujur. Dan saya pikir itu sudah cukup sebagai awal."
+      ],
+      "signature": "— Tony, Pendiri",
+      "byline": "Tony, Pendiri MITAN"
+    },
+    "how": {
+      "eyebrow": "Cara Kerja",
+      "title": "Sederhana. Penuh niat. Jujur.",
+      "steps": [
+        {
+          "title": "Buat profil yang jujur",
+          "body": "Tulis dua esai reflektif tentang siapa Anda dan apa yang Anda cari. Unggah foto asli. Verifikasi identitas dengan ID resmi. Tidak ada jalan pintas."
+        },
+        {
+          "title": "Temui orang dengan niat yang sama",
+          "body": "Jelajahi profil terverifikasi dari Muslim di seluruh dunia. Sukai seseorang yang esainya beresonansi dengan Anda. Saat saling suka, itu match."
+        },
+        {
+          "title": "Mulai percakapan yang nyata",
+          "body": "Buka hingga lima percakapan dalam waktu yang sama. Tanpa tekanan. Hanya dua orang yang saling mengenal — dengan tenang, dengan tujuan."
+        }
+      ]
+    },
+    "who": {
+      "eyebrow": "Untuk Siapa MITAN",
+      "title": "Dibangun untuk Muslim yang sudah selesai dengan yang kasual.",
+      "bullets": [
+        "Anda pernah menikah dan kali ini tahu persis apa yang Anda cari.",
+        "Anda siap menikah tapi lelah dengan platform yang tidak menanggapinya dengan serius.",
+        "Anda ingin dikenal lewat nilai, bukan sekadar foto.",
+        "Anda percaya pernikahan yang baik berawal dari percakapan jujur, bukan dari swipe."
+      ],
+      "welcome": "Jika itu Anda — selamat datang."
+    },
+    "cta": {
+      "title": "Siap memulai?",
+      "sub": "Bergabunglah dengan ribuan Muslim yang memilih niat daripada impuls.",
+      "button": "Buat Profil Anda — Gratis"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Pertanyaan umum.",
+      "items": [
+        {
+          "q": "Apakah MITAN gratis?",
+          "a": "Ya. Sepenuhnya gratis untuk bergabung, verifikasi, dan terhubung selama fase early access kami."
+        },
+        {
+          "q": "Siapa yang bisa bergabung dengan MITAN?",
+          "a": "Muslim dewasa yang benar-benar siap menikah. Anggota yang bercerai dan ditinggal pasangan sangat kami sambut."
+        },
+        {
+          "q": "Bagaimana proses verifikasi?",
+          "a": "Anda mengunggah ID resmi dan selfie sambil memegangnya. Tim kami memeriksa secara manual dalam 24 jam. Dokumen dihapus permanen setelah verifikasi."
+        },
+        {
+          "q": "Kenapa esai?",
+          "a": "Foto memberi tahu Anda seperti apa rupa seseorang. Esai memberi tahu Anda siapa mereka. Kami percaya kecocokan yang sebenarnya berawal dari nilai, bukan penampilan."
+        },
+        {
+          "q": "Berapa banyak percakapan yang bisa saya buka?",
+          "a": "Hingga lima percakapan aktif sekaligus. Disengaja sejak dirancang."
+        },
+        {
+          "q": "Apakah profil saya privat?",
+          "a": "Profil lengkap dan foto jelas Anda hanya terlihat setelah saling match. Di penjelajahan, hanya nama depan, usia, kota, dan foto buram yang ditampilkan."
+        }
+      ]
+    },
+    "trustBadges": {
+      "kyc": "Pengguna terverifikasi KYC",
+      "data": "Data tersimpan di Indonesia",
+      "muslim": "Dimiliki Muslim"
+    },
+    "footer": {
+      "tagline": "Perkenalan yang tenang, dengan niat yang jelas.",
+      "privacy": "Kebijakan Privasi",
+      "terms": "Syarat & Ketentuan",
+      "contact": "Kontak",
+      "email": "hello@mitan.cc",
+      "copyright": "© 2025 MITAN. Hak cipta dilindungi."
+    },
+    "sticky": {
+      "cta": "Gabung MITAN — Gratis"
+    },
+    "pwa": {
+      "offline": "Kamu sedang offline",
+      "installTitle": "Pasang MITAN",
+      "installBody": "Akses lebih cepat dari layar utama.",
+      "installAction": "Pasang",
+      "installDismiss": "Tutup"
+    }
+  }
+}

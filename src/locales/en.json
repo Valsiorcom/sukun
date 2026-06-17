@@ -1,0 +1,135 @@
+{
+  "landing": {
+    "nav": {
+      "howItWorks": "How It Works",
+      "founder": "Founder",
+      "faq": "FAQ",
+      "signIn": "Sign In",
+      "join": "Join MITAN"
+    },
+    "hero": {
+      "eyebrow": "From the Same Intention. Toward Marriage.",
+      "headlineLine1": "Find Your Life Partner.",
+      "headlineLine2": "No Small Talk.",
+      "sub": "No Swiping. No Small Talk. An introduction platform for Muslims serious about marriage.",
+      "cta": "Join MITAN — It's Free",
+      "secondary": "See how it works",
+      "note": "Free during early access · No subscriptions · Delete your account anytime"
+    },
+    "trust": {
+      "items": [
+        "Every profile is identity-verified",
+        "Every member writes reflective essays",
+        "No swipe culture. No ghosting games."
+      ]
+    },
+    "stats": {
+      "eyebrow": "Built differently",
+      "items": [
+        { "number": "24h", "label": "Average identity verification turnaround" },
+        { "number": "100%", "label": "Members verified before they can connect" },
+        { "number": "5", "label": "Max active conversations — intentional by design" }
+      ]
+    },
+    "founder": {
+      "eyebrow": "From the Founder",
+      "title": "Why I built this.",
+      "paragraphs": [
+        "I got married. Then I didn't.",
+        "After my marriage ended, I found myself looking for a partner again — this time with more clarity about what I actually wanted, and what I wouldn't compromise on.",
+        "I tried the apps. The swiping felt wrong. The matches disappeared. The conversations went nowhere.",
+        "What I needed wasn't another algorithm. I needed a place where people showed up with intention — where 'I'm ready to marry' meant something real.",
+        "MITAN is that place. It's not perfect. But it's honest. And I think that's enough to start."
+      ],
+      "signature": "— Tony, Founder",
+      "byline": "Tony, Founder of MITAN"
+    },
+    "how": {
+      "eyebrow": "How It Works",
+      "title": "Simple. Intentional. Honest.",
+      "steps": [
+        {
+          "title": "Build your honest profile",
+          "body": "Write two reflective essays about who you are and what you're looking for. Upload real photos. Verify your identity with a government ID. No shortcuts."
+        },
+        {
+          "title": "Meet people with intention",
+          "body": "Browse verified profiles from Muslims around the world. Like someone whose essays resonate with you. When it's mutual, it's a match."
+        },
+        {
+          "title": "Have a real conversation",
+          "body": "Open up to five conversations at a time. No pressure. Just two people getting to know each other — quietly, with purpose."
+        }
+      ]
+    },
+    "who": {
+      "eyebrow": "Who MITAN Is For",
+      "title": "Built for Muslims who are done with casual.",
+      "bullets": [
+        "You've been married before and you know what you're looking for this time.",
+        "You're ready to marry but tired of platforms that don't take that seriously.",
+        "You want to be known for your values, not just your photos.",
+        "You believe a good marriage starts with honest conversation, not a swipe."
+      ],
+      "welcome": "If that's you — welcome."
+    },
+    "cta": {
+      "title": "Ready to begin?",
+      "sub": "Join thousands of Muslims who chose intention over impulse.",
+      "button": "Create Your Profile — Free"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Common questions.",
+      "items": [
+        {
+          "q": "Is MITAN free?",
+          "a": "Yes. Completely free to join, verify, and connect during our early access phase."
+        },
+        {
+          "q": "Who can join MITAN?",
+          "a": "Muslim adults who are genuinely ready for marriage. Divorced and widowed members are warmly welcome."
+        },
+        {
+          "q": "How does verification work?",
+          "a": "You upload a government-issued ID and a selfie holding it. Our team reviews it manually within 24 hours. Documents are permanently deleted after verification."
+        },
+        {
+          "q": "Why essays?",
+          "a": "Photos tell you what someone looks like. Essays tell you who they are. We believe real compatibility starts with values, not appearance."
+        },
+        {
+          "q": "How many conversations can I have?",
+          "a": "Up to five active conversations at a time. Intentional by design."
+        },
+        {
+          "q": "Is my profile private?",
+          "a": "Your full profile and clear photos are only visible after a mutual match. In discovery, only your first name, age, city, and a blurred photo are shown."
+        }
+      ]
+    },
+    "trustBadges": {
+      "kyc": "KYC-verified users only",
+      "data": "Data stored in Indonesia",
+      "muslim": "Muslim-owned"
+    },
+    "footer": {
+      "tagline": "A quiet introduction, with clear intention.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "contact": "Contact",
+      "email": "hello@mitan.cc",
+      "copyright": "© 2025 MITAN. All rights reserved."
+    },
+    "sticky": {
+      "cta": "Join MITAN — It's Free"
+    },
+    "pwa": {
+      "offline": "You are offline",
+      "installTitle": "Install MITAN",
+      "installBody": "Access faster from your home screen.",
+      "installAction": "Install",
+      "installDismiss": "Close"
+    }
+  }
+}

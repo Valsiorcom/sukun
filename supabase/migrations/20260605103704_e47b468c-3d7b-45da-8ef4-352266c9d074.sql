@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN IF NOT EXISTS last_completed_step integer NOT NULL DEFAULT 0;
