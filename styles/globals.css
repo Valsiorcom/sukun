@@ -1,0 +1,15 @@
+/* Global styles: Tailwind + minimal project styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Legacy project styles should be migrated from src/styles.css into components or this file.
+   For now, keep this file focused and minimal. */
+
+html, body, #__next {
+  height: 100%;
+}
+
+body {
+  @apply bg-white text-gray-900;
+}
